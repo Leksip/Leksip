@@ -19,10 +19,10 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/Leksip)
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leksip&theme=tokyonight)
- 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solovpro&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leksip&theme=tokyonight&locale=ru)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solovpro&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leksip&theme=tokyonight)
+  </div>
