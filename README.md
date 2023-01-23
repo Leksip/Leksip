@@ -1,3 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Привет, меня зовут<a href="https://hh.ru/resume/c04bdaffff0b4d293e0039ed1f78766d457049" target="_blank">Никита</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Занимаюсь frontend резработкой</h1>
+<h3 align="center"></h3>
