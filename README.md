@@ -19,6 +19,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/Leksip)
  
+<hr>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solovpro&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
