@@ -5,7 +5,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>Занимаюсь frontend рaзработкой на JavaScript</h1>
  
  
-<h3 align="center">Основной стэк моих технологий:</h3>
+<h3 align="center">Основной стэк технологий:</h3>
  
 ![HTML5](https://img.shields.io/badge/-HTML5-F1E05A?style=for-the-badge&logo=HTML5)  
 ![CSS3](https://img.shields.io/badge/-CSS3/SCSS-4B0082?style=for-the-badge&logo=CSS3) 
