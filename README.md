@@ -4,3 +4,5 @@
 <br>
 
 <h3 align="center"></h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leksip&theme=tokyonight&locale=ru)](https://git.io/streak-stats)
