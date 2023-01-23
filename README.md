@@ -4,8 +4,12 @@
 
 
 <h3 align="center"></h3>
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leksip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leksip&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leksip&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leksip&theme=solarized_dark)
+ 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leksip&theme=tokyonight&locale=ru)](https://git.io/streak-stats)
