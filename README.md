@@ -3,8 +3,8 @@
 <h1 align="center">Привет, меня зовут <a href="https://hh.ru/resume/c04bdaffff0b4d293e0039ed1f78766d457049" target="_blank">Никита</a> 
 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>Занимаюсь frontend рaзработкой на JavaScript</h1>
-
-#Для связи со мной
+<hr>
+<h3>Для связи со мной<h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/Leksip)
  
