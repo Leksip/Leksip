@@ -4,7 +4,7 @@
 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>Занимаюсь frontend рaзработкой на JavaScript</h1>
 
-#Follow Me
+#Для связи со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/Leksip)
  
