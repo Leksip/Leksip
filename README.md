@@ -19,7 +19,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/Leksip)
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leksip&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leksip&theme=tokyonight)
  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leksip&theme=tokyonight&locale=ru)](https://git.io/streak-stats)
